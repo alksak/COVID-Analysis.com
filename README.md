@@ -16,6 +16,8 @@ Here are the results of COVID-Analysis.com project. The projection files are in 
 
 You can read more about our model [here](https://covid-analysis.com/p/covid19-projection-model).
 
+The project is self-funded. Your contribution is important for the operating expenses of this site and for coffee, our basic fuel. Every donation will help us continue this effort. [Donate](https://covid-analysis.com/donate)
+
 ## License 
 
 
