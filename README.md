@@ -18,13 +18,13 @@ You can read more about our model [here](https://covid-analysis.com/p/covid19-pr
 
 The project is self-funded. Your contribution is important for the operating expenses of this site and for coffee, our basic fuel. Every donation will help us continue this effort. [Donate](https://covid-analysis.com/donate)
 
-[![Follow us on twitter][1.1]][1]
+[Follow us on twitter[Follow us on twitter][1.1]][1]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
 [1.1]: http://i.imgur.com/tXSoThF.png (@COVID_Analysis)
 <!-- icons with padding -->
-Follow us on twitter 
+ 
 
 
 [1]: https://twitter.com/COVID_Analysis
