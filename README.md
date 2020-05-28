@@ -24,7 +24,8 @@ The project is self-funded. Your contribution is important for the operating exp
 <!-- no need to change these -->
 
 <!-- icons with padding -->
-Follow us on twitter [1.1]: http://i.imgur.com/tXSoThF.png (@COVID_Analysis)
+Follow us on twitter 
+[1.1]: http://i.imgur.com/tXSoThF.png (@COVID_Analysis)
 
 [1]: https://twitter.com/COVID_Analysis
 
