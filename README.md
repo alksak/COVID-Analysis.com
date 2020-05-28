@@ -15,3 +15,16 @@ Our goal is to provide insights and projections about the progression of coronav
 Here are the results of COVID-Analysis.com project. The projection files are in JSON format, including Date in Datetime format. The files are named by the Country and the date of projection. Example: Greece_pred_29_3_2020.json which means that this projection has not incorporated the data from and after April 29th, 2020. Every new projection is dumped as a different file with the above format.
 
 You can read more about our model [here](https://covid-analysis.com/p/covid19-projection-model).
+
+## Licence 
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
