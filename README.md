@@ -11,5 +11,5 @@ You can find more information about our team members on our social media account
 ## Our Goal
 Our goal is to provide insights and projections about the progression of coronavirus pandemic in a fast, clean and understandable way. We have developed a publicly available tool that helps everyone to comprehend the huge amount of information and numbers. This is necessary because people’s behavior is the main lever for controlling the outcome of the disease.
 
-
-Here are the results of COVID-Analysis.com project. 
+## This Repo
+Here are the results of COVID-Analysis.com project. The projection files are in JSON format, including Date in Datetime format. The files are named by the Country and the date of projection. Example: Greece_pred_29_3_2020.json which means that this projection has not incorporated the data from and after April 29th, 2020. Every new projection is dump as a different file with the above format.
