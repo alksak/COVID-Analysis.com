@@ -5,7 +5,7 @@
 ## Introduction
 We are researchers and engineers from Greece. We decided to make a good use of our expertise in Computer Science, Data Analysis and Scientific Modelling in order to contribute to the ongoing research about COVID-19. We are not doctors neither epidemiologists.
 You can find more information about our team members on our social media accounts. Feel free to contact us directly.
-Alkaios Sakellaris, Konstantina Miteloudi, Dimitris Sakellaris, Nikolaos Tampouratzis
+[Alkaios Sakellaris](https://www.linkedin.com/in/alkaios-sakellaris/), [Konstantina Miteloudi](https://www.linkedin.com/in/konstantina-miteloudi-710b61193/), [Dimitris Sakellaris](https://www.facebook.com/dsakellaris), [Nikolaos Tampouratzis](https://www.researchgate.net/profile/Nikolaos_Tampouratzis)
 
 
 ## Our Goal
