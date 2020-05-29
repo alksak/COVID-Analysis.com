@@ -31,7 +31,7 @@ Follow us on twitter ([@COVID_Analysis](https://twitter.com/COVID_Analysis)) [![
 
 [1]: https://twitter.com/COVID_Analysis
 
-## License 
+## License
 
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
