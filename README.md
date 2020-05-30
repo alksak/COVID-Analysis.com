@@ -8,7 +8,7 @@ You can find more information about our team members on our social media account
 [Alkaios Sakellaris](https://www.linkedin.com/in/alkaios-sakellaris/), [Konstantina Miteloudi](https://www.linkedin.com/in/konstantina-miteloudi-710b61193/), [Dimitris Sakellaris](https://www.facebook.com/dsakellaris), [Nikolaos Tampouratzis](https://www.researchgate.net/profile/Nikolaos_Tampouratzis)
 
 
-## Our Goal
+## Our Goal 
 Our goal is to provide insights and projections about the progression of coronavirus pandemic in a fast, clean and understandable way. We have developed a publicly available tool that helps everyone to comprehend the huge amount of information and numbers. This is necessary because people’s behavior is the main lever for controlling the outcome of the disease.
 
 ![Brazil Projections](brazil_projections.PNG)
